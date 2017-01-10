@@ -2,7 +2,7 @@
 
 ###########################################
 # by Ricardo Canelas                      #
-# https://gist.github.com/ricardocanelas  #
+# https://github.com/ricardocanelas       #
 #-----------------------------------------#
 # + Apache                                #
 # + PHP 7.1                               #
